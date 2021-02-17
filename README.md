@@ -1,7 +1,7 @@
 # friends 交友平台(後端)
 
 > 一個簡易的交友平台(後端部分)  
-> [前端部分](https://github.com/a50316y/proj-friends-web).
+> --->[前端部分](https://github.com/a50316y/proj-friends-web).
 
 ## 功能(api)
 1.註冊  
