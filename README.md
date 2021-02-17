@@ -13,7 +13,7 @@
 8.顯示其他成員列表  
 
 
-## 註冊
+## 1.註冊
 
 ### 請求URL
 ```
@@ -23,6 +23,26 @@ localhost:3000/users/register
 ```
 POST
 ```
+## 2.登入
 
+### 請求URL
+```
+localhost:3000/users/login
+```
+### 請求方式
+```
+POST
+```
+
+## 3.個人資訊修改 
+
+### 請求URL
+```
+localhost:3000/users/update
+```
+### 請求方式
+```
+POST
+```
   
   
