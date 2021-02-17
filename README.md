@@ -55,12 +55,11 @@ localhost:3000/users/uploadImg
 ```
 ### 請求方式
 ```
-POST
-(前端上傳照片(base64)至後端後，後端會轉成檔案存取並回傳照片URL回前端，
-前端需再呼叫另一支API(localhost:3000/users/updateImg)
-存取相片URL至後端資料庫)  
-
+POST  
 ```
+### 說明
+前端上傳照片(base64)至後端後，後端會轉成檔案存取並回傳照片URL回前端，前端需再呼叫另一支API(localhost:3000/users/updateImg)
+存取相片URL至後端資料庫
 ## 5.交友申請  
 
 ### 請求URL
