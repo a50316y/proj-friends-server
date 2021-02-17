@@ -3,7 +3,7 @@
 > 一個簡易的交友平台(後端部份)   
 > 使用資料庫:mongoDB  
 > 使用其他工具:socket base64-img  
-> --->[前端部份](https://github.com/a50316y/proj-friends-web)  
+> --->[前端部份程式碼](https://github.com/a50316y/proj-friends-web)  
 
 ## 功能(api)
 1.註冊  
